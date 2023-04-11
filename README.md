@@ -1,2 +1,5 @@
 นีคือ website ที่ผมสร้างขึ้นมาเพื่อใช้งานกับแฟนสาวของผม โดยมี feature หลักๆดังนี้
-![WIN_20200519_12_47_33_Pro](https://user-images.githubusercontent.com/123401732/231238378-c45efcda-f9e2-4150-a7a2-72f0e620aea5.jpg)
+โดยเอาไว้ใช้เหมือนเป็น social media ขนาดเล็ก สามารถอัพรูป โพสข้อความ กดไลค์ และแชทคุยกันได้ เมื่อมีการลงโพสต์ใหม่จะส่งแจ้งเตือนทาง line api 
+tech stack: react javascript css nodejs 
+db : firebase , firestore
+deploy: netlify
