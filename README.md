@@ -1,12 +1,9 @@
-describe : นีคือ website ที่ผมสร้างขึ้นมาเพื่อจำลองเป็น social media ของคู่รัก โดยผมได้ใช้งานจริงกับแฟนสาวของผม โดยมี feature หลักๆดังนี้
-social media ขนาดเล็ก สามารถอัพรูป โพสข้อความ ลบโพส กดไลค์ และแชทคุยกันได้ เมื่อมีการลงโพสต์ใหม่จะส่งแจ้งเตือนทาง line api และเว็บไซต์เป็นแบบ responsive
+I have developed a website designed to simulate a social media platform specifically for couples. This project was actively used with my girlfrriend, featuring key functionalities such as a minimalistic social media interface, capabilities to upload photos, post and delete messages, like posts, and engage in chats. Additionally, the system sends notifications via LINE API whenever new posts are added. The website is responsive, ensuring a seamless user experience on various devices.
 
-tech stack: react.js javascript css nodejs 
+Technical Stack: Utilized React.js, JavaScript, CSS,Materail UI, and Node.js for development.
 
-db : firebase , firestore
+Database: Integrated with Firebase and Firestore for robust data management.
 
-deploy: netlify
+Deployment: The website has been successfully deployed on Netlify.
 
-สามารถชมเว็บไซต์ได้ที่: https://youandidiary.netlify.app/
-
-
+The website can be viewed at: [https://youandidiary.netlify.app/]"
